@@ -1,6 +1,4 @@
 
-https://weebgroup.com/1/images/-86f17854f6424ddaa73d736fdfce3afb.png
-
 <h1 align="center">Hi 👋, I'm Muhammet Ay</h1>
 <h3 align="center">I am a passionate software engineer from Turkey 😎</h3>
 
