@@ -32,4 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymhmt&" alt="aymhmt" /></p>
 
+<img src="https://raw.githubusercontent.com/aymhmt/aymhmt/output/snake.svg" alt="Snake animation" />
+
+###
+
 
