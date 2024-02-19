@@ -34,6 +34,5 @@
 
 <img src="https://raw.githubusercontent.com/aymhmt/aymhmt/output/snake.svg" alt="Snake animation" />
 
-###
 
 
