@@ -1,4 +1,3 @@
-![](https://www.yazilimturkiye.com/wp-content/uploads/2020/11/hangi-yazilim-dili-secmeliyim.png)
 
 <h1 align="center">Hi 👋, I'm Muhammet Ay</h1>
 <h3 align="center">I am a passionate software engineer from Turkey 😎</h3>
